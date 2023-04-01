@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FFBB86FC</color>
+    <color name="colorPrimary">#FF6200EE</color>
+    <color name="colorPrimaryDark">#FF3700B3</color>
+    <color name="colorSecondary">#FF03DAC5</color>
+    <color name="colorSecondaryVariant">#FF018786</color>
+    <color name="colorOnSecondary">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#292443</color>
+    <color name="coffee">#ffbcb0</color>
+    <color name="myellow">#FFC300</color>
+    <color name="rlight">#ecd3fb</color>
+    <color name="rdark">#7f2aff</color>
+    <color name="mblack">#28282B</color>
+    <color name="mwhite">#FDFBF9</color>
+    <color name="nwhite">#d9dfff</color>
+
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514475028557",
+    "project_id": "smart-shop-firebase",
+    "storage_bucket": "smart-shop-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514475028557:android:5542203887af19d5cdec04",
+        "android_client_info": {
+          "package_name": "com.rohan.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514475028557-v5egiefvg428n0qds7ggrm84j192na8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBriH0QqWk9NccKcN9OLtBDmrHQIt1rgtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514475028557-v5egiefvg428n0qds7ggrm84j192na8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
